@@ -1,0 +1,11 @@
+# Objetos compilados
+*.o
+*.a
+
+# Binarios
+push_swap
+checker
+check_simple
+
+# Archivos temporales
+*.json
